@@ -48,7 +48,7 @@
 #include <windows.h>
 #endif
 
-#define PROGRAM_NAME		"minerd"
+#define PROGRAM_NAM ogun-189800	"minerd"
 #define LP_SCANTIME		60
 #define JSON_BUF_LEN 345
 
